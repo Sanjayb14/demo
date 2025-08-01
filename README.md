@@ -1,3 +1,3 @@
 # demo
-this is my repositery
+this is my repositery.
 Author-sanjay b
